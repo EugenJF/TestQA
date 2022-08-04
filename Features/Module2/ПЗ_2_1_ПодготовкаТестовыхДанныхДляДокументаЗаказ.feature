@@ -1,6 +1,8 @@
 ﻿#language: ru
 
 @tree
+@ExportScenarios
+@IgnoreOnCIMainBuild
 
 Функционал: Подготовка тестовых данных для тестирования документа Заказ (подсистема Продажи)
 
